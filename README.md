@@ -1,6 +1,6 @@
 # AREA
 The intelligent algorithm to determine workers' risk situations or behavior that lowers productivity. Use it for safety training or productivity analysis.   
-![1](https://user-images.githubusercontent.com/101917321/194748525-55e91ccb-d6ca-42fe-9eea-cbff27d2f5b2.png)
-
+   
+![1](https://user-images.githubusercontent.com/101917321/194748612-1040496e-0ab4-4ee8-97d4-22c89ba4d678.png)
    
 https://drive.google.com/drive/folders/1DBDDxdBFyVgpg9qHby5eY3prD2777LN6?usp=sharing
